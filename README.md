@@ -22,7 +22,7 @@ Proyek ini bertujuan untuk menganalisis dan membandingkan **kinerja dua arsitekt
 2. *Low*
 3. *Medium*
 4. *High*
-5. *Traffic jam*
+5. *Traffic Jam*
 
 Implementasi dilakukan untuk mengevaluasi akurasi, waktu komputasi, dan efisiensi model pada perangkat dengan sumber daya terbatas.
 
@@ -80,7 +80,7 @@ Model yang digunakan dalam eksperimen dapat diunduh melalui tautan berikut:
 
 ## 📈 Hasil Perbandingan Model 
 
-| Model         | Akurasi (%) | Ketepatan prediksi | Perfoema terbaik |
+| Model         | Akurasi (%) | Ketepatan prediksi | Performa terbaik |
 |---------------|-------------|--------------|-----------------------|
 | VGG16         |     84    |     16/20     |          Kelas Empty, Medium, High, Traffic jam|
 | MobileNetV2   |     81    |     15/20     |          Kelas Empty, Traffic jam          |
@@ -102,4 +102,4 @@ Model yang digunakan dalam eksperimen dapat diunduh melalui tautan berikut:
 
 ---
 
-Jika ada yang perlu ditambahkan atau disesuaikan, beri tahu untuk diperbarui! 😊
+Jika ada yang perlu ditambahkan atau disesuaikan, beri tahu untuk diperbarui! Terima Kasih😊
