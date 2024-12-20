@@ -100,6 +100,4 @@ Model yang digunakan dalam eksperimen dapat diunduh melalui tautan berikut:
 - meinisa.121450076@student.itera.ac.id
 - erwan.121450062@student.itera.ac.id
 
----
 
-Jika ada yang perlu ditambahkan atau disesuaikan, beri tahu untuk diperbarui! Terima Kasih😊
